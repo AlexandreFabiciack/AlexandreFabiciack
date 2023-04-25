@@ -1,7 +1,7 @@
 ### 0lá P3550AL!!!👋 Me chamo Alexandre Fabiciack dos Passos 😉😉.
 
 - 🌱 Sou Técnico em agropecuária.
-- 🌲 Gestor Ambiental
+- 🌲 Gestor Ambiental.
 - 💻 Estudando mais a cada dia para iniciar minha carreira como Dev.
 <div>
   <a href="https://github.com/AlexandreFabiciack">
