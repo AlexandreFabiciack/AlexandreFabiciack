@@ -21,7 +21,7 @@
 </div>
     
 <div syle="display: inline_block"><br>
-  <img align="center" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" height"30" wildth"40" src="<i class="devicon-html5-plain></i>">
 </div>
