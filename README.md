@@ -2,6 +2,8 @@
 
 - 🌱 Sou Técnico em agropecuária.
 - 🌲 Gestor Ambiental.
+- Iniciando nos estudos como Dev.
+- Apaixonado pela área da tecnologia❤️❤️❤️.
 - 💻 Estudando mais a cada dia para iniciar minha carreira como Dev.
 ##
 <div>
@@ -19,12 +21,8 @@
 </picture>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFabiciack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)"
 </div>
-    
-<div syle="display: inline_block"><br>
-  <img align="center" alt="" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" height"30" wildth"40" src="<i class="devicon-html5-plain></i>">
-</div>
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-          
+      ##
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Alexandre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
